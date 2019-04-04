@@ -33,3 +33,5 @@ Start the Django server with the following command being in the project folder b
 ```
 python manage.py runserver
 ```
+
+acess in your browser: http://localhost:8000
