@@ -25,6 +25,8 @@ Quit virtual environment:
 conda deactivate
 ```
 
+For more information about conda environment acess: [Managing environments.](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
 ### View the project
 
 Start the Django server with the following command being in the project folder by the terminal:
